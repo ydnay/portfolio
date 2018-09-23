@@ -1,7 +1,13 @@
+.ui.text.container .ui.huge.button {
+  margin-top: 10%;
+}
+.ui.stackable.doubling.four.column.grid img {
+  width: 80%;
+  height: 100%;
+}
 .hidden.menu {
   display: none;
 }
-
 .masthead.segment {
   min-height: 700px;
   padding: 0em 0em;
